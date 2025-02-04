@@ -7,3 +7,7 @@
 [weather code](https://github.com/Jeshwanth-19/WebTechnology2025/blob/main/Lab-02/index.html)
 # Personal Finance Tracker
 [Finance code](https://github.com/Jeshwanth-19/WebTechnology2025/blob/main/Lab-02/Finance.html)
+# Lab-03 Student Management System
+[CODE](https://github.com/Jeshwanth-19/WebTechnology2025/blob/main/Lab-03/Student.html)
+
+

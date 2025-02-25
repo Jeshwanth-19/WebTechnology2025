@@ -9,5 +9,7 @@
 [Finance code](https://github.com/Jeshwanth-19/WebTechnology2025/blob/main/Lab-02/Finance.html)
 # Lab-02.2 Student Management System
 [CODE](https://github.com/Jeshwanth-19/WebTechnology2025/blob/main/Lab-02.2/Student.html)
+# Lab-5.1 CollegeManagementSystem
+[CODE](https://github.com/Jeshwanth-19/WebTechnology2025/tree/main/Lab-5.1)
 
 
